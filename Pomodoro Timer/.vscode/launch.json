@@ -1,0 +1,491 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "testday",
+            "request": "launch",
+            "mainClass": "com.example/com.example.testday",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "EmbeddedMediaPlayer",
+            "request": "launch",
+            "mainClass": "com.example/com.example.EmbeddedMediaPlayer",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.example/com.example.App",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousHandlerDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.AnonymousHandlerDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "com.example/com.example.App",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "BindingDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.BindingDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "BounceBallControl",
+            "request": "launch",
+            "mainClass": "com.example/com.example.BounceBallControl",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "BounceBallSlider",
+            "request": "launch",
+            "mainClass": "com.example/com.example.BounceBallSlider",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ButtonDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ButtonDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ButtonInPane",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ButtonInPane",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "CheckBoxDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.CheckBoxDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ClockAnimation",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ClockAnimation",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "Code1",
+            "request": "launch",
+            "mainClass": "com.example/com.example.Code1",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "Code2",
+            "request": "launch",
+            "mainClass": "com.example/com.example.Code2",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "Code3",
+            "request": "launch",
+            "mainClass": "com.example/com.example.Code3",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ComboBoxDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ComboBoxDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ComboBoxSample",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ComboBoxSample",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ControlCircle",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ControlCircle",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ControlCircleWithMouseAndKey",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ControlCircleWithMouseAndKey",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ControlCircleWithoutEventHandling",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ControlCircleWithoutEventHandling",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "DisplayClock",
+            "request": "launch",
+            "mainClass": "com.example/com.example.DisplayClock",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "FadeTransitionDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.FadeTransitionDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "FlagAnthem",
+            "request": "launch",
+            "mainClass": "com.example/com.example.FlagAnthem",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "FlagRisingAnimation",
+            "request": "launch",
+            "mainClass": "com.example/com.example.FlagRisingAnimation",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "FontDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.FontDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "HBoxApplication",
+            "request": "launch",
+            "mainClass": "com.example/com.example.HBoxApplication",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "HandleEvent",
+            "request": "launch",
+            "mainClass": "com.example/com.example.HandleEvent",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "InputMismatchExceptionDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.InputMismatchExceptionDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "KeyEventDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.KeyEventDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "LabelWithGraphic",
+            "request": "launch",
+            "mainClass": "com.example/com.example.LabelWithGraphic",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "LambdaHandlerDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.LambdaHandlerDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "LayoutPaneApplication",
+            "request": "launch",
+            "mainClass": "com.example/com.example.LayoutPaneApplication",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ListViewDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ListViewDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "LoanCalculator",
+            "request": "launch",
+            "mainClass": "com.example/com.example.LoanCalculator",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.example/com.example.Main",
+            "vmArgs": "--module-path B:/javafx-sdk-20.0.2/lib --add-modules javafx.controls,javafx.fxml --add-modules javafx.controls,javafx.media",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "MediaDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.MediaDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "MouseEventDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.MouseEventDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "MultipleStageDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.MultipleStageDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "MyJavaFX",
+            "request": "launch",
+            "mainClass": "com.example/com.example.MyJavaFX",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "NodeStyleRotateDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.NodeStyleRotateDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ObservablePropertyDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ObservablePropertyDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "PathTransitionDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.PathTransitionDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "PomodoroTimer",
+            "request": "launch",
+            "mainClass": "com.example/com.example.PomodoroTimer",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "QuotientWithException",
+            "request": "launch",
+            "mainClass": "com.example/com.example.QuotientWithException",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "RadioButtonDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.RadioButtonDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ResizableCircleRectangle",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ResizableCircleRectangle",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ScrollBarDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ScrollBarDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ShowArc",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ShowArc",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ShowCircle",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ShowCircle",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ShowCircleCentered",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ShowCircleCentered",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ShowEllipse",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ShowEllipse",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ShowFlowPane",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ShowFlowPane",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ShowGridPane",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ShowGridPane",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ShowHBoxVBox",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ShowHBoxVBox",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ShowImage",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ShowImage",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ShowLine",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ShowLine",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ShowPolygon",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ShowPolygon",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ShowRectangle",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ShowRectangle",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "ShowText",
+            "request": "launch",
+            "mainClass": "com.example/com.example.ShowText",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "SliderDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.SliderDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "TestLambda",
+            "request": "launch",
+            "mainClass": "com.example/com.example.TestLambda",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "TextAreaDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.TextAreaDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "TextFieldDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.TextFieldDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "TicTacToe",
+            "request": "launch",
+            "mainClass": "com.example/com.example.TicTacToe",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "TimelineDemo",
+            "request": "launch",
+            "mainClass": "com.example/com.example.TimelineDemo",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "USMap",
+            "request": "launch",
+            "mainClass": "com.example/com.example.USMap",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "VBOXApplication",
+            "request": "launch",
+            "mainClass": "com.example/com.example.VBOXApplication",
+            "projectName": "pomodoro-timer"
+        },
+        {
+            "type": "java",
+            "name": "pathTransition",
+            "request": "launch",
+            "mainClass": "com.example/com.example.pathTransition",
+            "projectName": "pomodoro-timer"
+        }
+    ]
+}
